@@ -50,6 +50,7 @@ const ExerciseButton = ({
           justifyContent: "center",
           alignItems: "center",
           paddingRight: 12,
+          borderRadius:10,
         }}
       >
         <Feather
